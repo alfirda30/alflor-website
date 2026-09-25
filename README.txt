@@ -13,8 +13,7 @@ Fitur:
 - Stok per ukuran S–4XL
 - Harga per ukuran
 - Keranjang + qty
-- Estimasi ongkir JNE Rp18.000 / SiCepat Rp19.000
-- Pilihan pembayaran: Transfer Bank / E-Wallet / COD
+- Pembayaran: Transfer Bank
 - Checkout form
 - Order sukses + nomor pesanan
 - Kirim detail order ke WhatsApp admin
